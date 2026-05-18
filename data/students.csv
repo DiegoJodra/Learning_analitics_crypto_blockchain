@@ -1,0 +1,16 @@
+student_id,name,course,grade,participation,assignments_submitted,absences,forum_posts
+S001,Ana Garcia,Matematicas,8.4,82,10,1,12
+S002,Luis Martin,Matematicas,4.3,38,5,6,2
+S003,Marta Lopez,Programacion,7.5,74,9,2,9
+S004,Carlos Ruiz,Programacion,5.1,48,6,4,3
+S005,Lucia Torres,Analisis de Datos,9.1,91,10,0,15
+S006,Pablo Sanchez,Analisis de Datos,3.8,32,4,7,1
+S007,Sara Molina,Matematicas,6.2,61,8,3,5
+S008,Jorge Perez,Programacion,4.9,42,5,5,2
+S009,Nuria Castro,Analisis de Datos,7.9,79,9,1,11
+S010,Diego Romero,Matematicas,5.8,55,7,4,4
+S011,Elena Vidal,Programacion,8.7,88,10,1,14
+S012,Raul Ortega,Analisis de Datos,4.6,45,6,5,3
+S013,Clara Navarro,Matematicas,9.3,94,10,0,16
+S014,Ivan Morales,Programacion,6.8,67,8,2,7
+S015,Paula Herrera,Analisis de Datos,5.4,52,7,3,5
