@@ -175,7 +175,7 @@ def test_blockchain(data):
     is_valid = verify_blockchain(blockchain)
     print("\nLa cadena es valida?:", is_valid)
 
-    print("\nModificando la nota del segundo bloque...")
+    print("\nSimulamos que alguien consigue modificar su nota")
     blockchain[1]["grade"] = 10
 
     is_valid_after_change = verify_blockchain(blockchain)
